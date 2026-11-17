@@ -21,3 +21,13 @@ env/
 ENV/
 env.bak/
 venv.bak/
+
+checkpoints/
+data/
+.idea/
+.vscode/
+
+checkpoints/
+data/
+.idea/
+.vscode/
